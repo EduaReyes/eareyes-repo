@@ -1,4 +1,4 @@
-Name: manegron-repo
+Name: eareyes-repo
 Version: %{__version}
 Release: %{__release}%{?dist}
 BuildArch: noarch
@@ -35,7 +35,5 @@ rm -rf $RPM_BUILD_ROOT
 /etc/pki/rpm-gpg/RPM-GPG-KEY-redborder-repo
 
 %changelog
-* Wed Jan 27 2020 Miguel Negrón <manegron@redborder.com> - 0.0.2-1
+* Thu Nov 25 2021 Eduardo Reyes <eareyes@redborder.com> - 0.0.3
 - Set correct name
-* Wed Jan 27 2020 Miguel Negrón <manegron@redborder.com> - 0.0.1-1
-- first spec version
