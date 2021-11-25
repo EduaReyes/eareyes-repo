@@ -1,6 +1,6 @@
-[manegron-devel]
-name=manegron repository devel
-baseurl=http://rbrepo.redborder.lan/manegron/
+[eareyes-devel]
+name=eareyes repository devel
+baseurl=http://rbrepo.redborder.lan/EduaReyes/
 gpgcheck=0
 enabled=1
 sslcheck=0
