@@ -1,6 +1,6 @@
 [eareyes-devel]
 name=eareyes repository devel
-baseurl=http://rbrepo.redborder.lan/EduaReyes/
+baseurl=http://rbrepo.redborder.lan/eareyes/
 gpgcheck=0
 enabled=1
 sslcheck=0
